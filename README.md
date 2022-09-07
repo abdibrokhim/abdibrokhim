@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @abdibrokhim
+- 🧑‍🎓 Student at New Uzbekistan University.
+- 👨‍🎓 Student at Bobir Akilkhanov Academy.
 - 👀 I’m interested in AI/ML, Data Science, Music Production, 3D Modeling/Animation.
 - 🌱 I’m currently studying AI/ML at Bobir Akilkhanov Academy.
 - 🌱 I’m currently studying Data Science, Software Engineering at New Uzbekistan University.
