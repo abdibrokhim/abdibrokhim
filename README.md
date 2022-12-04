@@ -1,16 +1,27 @@
 - 👋 Hi, I’m @abdibrokhim
 - 🧑‍🎓 Student at New Uzbekistan University.
-- 👨‍🎓 Student at Bobir Akilkhanov Academy.
-- 👀 I’m interested in AI/ML, Data Science, Music Production, 3D Modeling/Animation.
-- 🌱 I’m currently studying AI/ML at Bobir Akilkhanov Academy.
+- 👨‍🎓 Ex. Student at Bobir Akilkhanov Academy.
+- 👀 I’m interested in Game and Software Development, AI/ML, Data Science, Music Production, 3D Modeling/Animation and Competitive Programming
+- 🌱 I've studied AI/ML at Bobir Akilkhanov Academy.
 - 🌱 I’m currently studying Data Science, Software Engineering at New Uzbekistan University.
 - 💞️ Do you have project? Let's Collab!
 - 📫 How to reach me? 
-- Telegram: @abdibrokhim
-- Linkedin: @abdibrokhim
-- Kaggle: @loneguy
+
+- Twitter: https://twitter.com/abdibrokhim
+- Linkedin: https://www.linkedin.com/in/abdibrokhim/
+- Github: https://github.com/abdibrokhim
+- Kaggle: https://www.kaggle.com/loneguy
+- Instagram: https://www.instagram.com/theblockchaindev/
+- Telegram: https://t.me/abdibrokhim
 
 <!---
 abdibrokhim/abdibrokhim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<a href=#><img src="main.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/abdibrokhim/count.svg" />
+</p>
