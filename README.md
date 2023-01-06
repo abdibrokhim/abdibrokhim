@@ -7,6 +7,7 @@
 - 💞️ Do you have project? Let's Collab!
 - 📫 How to reach me? 
 
+- Medium: https://medium.com/@abdibrokhim
 - Twitter: https://twitter.com/abdibrokhim
 - Linkedin: https://www.linkedin.com/in/abdibrokhim/
 - Github: https://github.com/abdibrokhim
