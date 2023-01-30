@@ -12,7 +12,7 @@
 - Linkedin: https://www.linkedin.com/in/abdibrokhim/
 - Github: https://github.com/abdibrokhim
 - Kaggle: https://www.kaggle.com/loneguy
-- Instagram: https://www.instagram.com/theblockchaindev/
+- Instagram: https://www.instagram.com/_abdibrokhim/
 - Telegram: https://t.me/abdibrokhim
 
 <!---
