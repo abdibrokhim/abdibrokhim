@@ -10,6 +10,8 @@
 
 All donations are Greatly Appreciated!
 
+- Hackathoner, Mentor on: https://lablab.ai
+
 - Buy me Coffee: https://www.buymeacoffee.com/abdibrokhim
 
 - LinkTree: https://linktr.ee/abdibrokhim
