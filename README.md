@@ -4,8 +4,8 @@
 - 🧑‍🎓 Mentor at LabLab.AI.
 - 👀 I’m interested in Game and Software Development, AI/ML, Data Science, Music Production, 3D Modeling/Animation and Competitive Programming.
 - 💞️ Do you have project? Let's Collab!
-- 📫 How to reach me? 
 
+<br/>
 
 All donations are Greatly Appreciated! 💛
 
@@ -14,52 +14,12 @@ All donations are Greatly Appreciated! 💛
 
 <br/>
 
+## Connect with me
+
 |   <a style="margin-left: 20px;" href="https://www.linkedin.com/in/abdibrokhim/" target="_blank"><img width="60" src="icons/linkedin.png"/></a>    |     <a href="https://twitter.com/abdibrokhim" target="_blank"><img width="60" src="icons/twitter.png"/></a> |     <a href="https://www.instagram.com/_abdibrokhim/" target="_blank"><img width="60" src="icons/instagram.png"/></a>     |     <a href="https://github.com/abdibrokhim" target="_blank"><img width="60" src="icons/github.png"/></a>      |     <a href="https://t.me/abdibrokhim" target="_blank"><img width="60" src="icons/telegram.png"/></a> |     <a href="https://medium.com/@abdibrokhim" target="_blank"><img width="60" src="icons/medium.png"/></a>     |  <a style="margin-left: 20px;" href="https://linktr.ee/abdibrokhim" target="_blank"><img width="60" src="icons/link.png"/></a> |   <a href="https://lablab.ai" target="_blank"><img width="60" src="icons/lablab.png"/></a> |  <a href="https://www.kaggle.com/loneguy" target="_blank"><img width="70" src="icons/kaggle.svg"/></a>  |
 | :----:        |    :----:   |     :----:    |    :----:   |    :----:   | :----:   |  :----:   |  :----:   |   :---:  |
 
-
-<div class="">
-
-  <span>
-    <a style="margin-left: 20px;" href="https://www.linkedin.com/in/abdibrokhim/" target="_blank"><img width="60" src="icons/linkedin.png"/></a>
-  </span>
-
-  <vr/>
-
-  <span style="margin-left: 20px;">
-    <a href="https://twitter.com/abdibrokhim" target="_blank"><img width="60" src="icons/twitter.png"/></a>
-  </span>
-
-  <span style="margin-left: 20px;">
-    <a href="https://www.instagram.com/_abdibrokhim/" target="_blank"><img width="60" src="icons/instagram.png"/></a>
-  </span>
-
-  <span style="margin-left: 20px;">
-    <a href="https://github.com/abdibrokhim" target="_blank"><img width="60" src="icons/github.png"/></a>
-  </span>
-
-  <span style="margin-left: 20px;">
-    <a href="https://t.me/abdibrokhim" target="_blank"><img width="60" src="icons/telegram.png"/></a>
-  </span>
-
-  <span style="margin-left: 20px;">
-    <a href="https://medium.com/@abdibrokhim" target="_blank"><img width="60" src="icons/medium.png"/></a>
-  </span>
-
-  <span>
-    <a style="margin-left: 20px;" href="https://linktr.ee/abdibrokhim" target="_blank"><img width="60" src="icons/link.png"/></a>
-  </span>
-
-  <span style="margin-left: 20px;">
-    <a href="https://lablab.ai" target="_blank"><img width="60" src="icons/lablab.png"/></a>
-  </span>
-
-  <span style="margin-left: 20px;">
-    <a href="https://www.kaggle.com/loneguy" target="_blank"><img width="70" src="icons/kaggle.svg"/></a>
-  </span>
-
-
-</div>
+<br/>
 
 
 <!-- -
@@ -80,6 +40,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://profile-counter.glitch.me/abdibrokhim/count.svg" />
 </p>
 
+
+<br/>
 
 
 <!-- Widget -->
