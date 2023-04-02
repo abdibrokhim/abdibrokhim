@@ -17,44 +17,50 @@ All donations are Greatly Appreciated! 💛
 
 <div 
   class="" 
-  style="display: flex; gap: 20px; justify-content: center; align-items: center;"
+  style="
+  display: flex; 
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 20px; 
+  justify-content: center; 
+  align-items: center;"
   >
 
-<span>
-  <a style="" href="https://www.linkedin.com/in/abdibrokhim/" target="_blank"><img width="60" src="icons/linkedin.png"/></a>
-</span>
+  <span>
+    <a style="" href="https://www.linkedin.com/in/abdibrokhim/" target="_blank"><img width="60" src="icons/linkedin.png"/></a>
+  </span>
 
-<span>
-  <a href="https://twitter.com/abdibrokhim" target="_blank"><img width="60" src="icons/twitter.png"/></a>
-</span>
+  <span>
+    <a href="https://twitter.com/abdibrokhim" target="_blank"><img width="60" src="icons/twitter.png"/></a>
+  </span>
 
-<span>
-  <a href="https://www.instagram.com/_abdibrokhim/" target="_blank"><img width="60" src="icons/instagram.png"/></a>
-</span>
+  <span>
+    <a href="https://www.instagram.com/_abdibrokhim/" target="_blank"><img width="60" src="icons/instagram.png"/></a>
+  </span>
 
-<span>
-  <a href="https://github.com/abdibrokhim" target="_blank"><img width="60" src="icons/github.png"/></a>
-</span>
+  <span>
+    <a href="https://github.com/abdibrokhim" target="_blank"><img width="60" src="icons/github.png"/></a>
+  </span>
 
-<span>
-  <a href="https://t.me/abdibrokhim" target="_blank"><img width="60" src="icons/telegram.png"/></a>
-</span>
+  <span>
+    <a href="https://t.me/abdibrokhim" target="_blank"><img width="60" src="icons/telegram.png"/></a>
+  </span>
 
-<span>
-  <a href="https://medium.com/@abdibrokhim" target="_blank"><img width="60" src="icons/medium.png"/></a>
-</span>
+  <span>
+    <a href="https://medium.com/@abdibrokhim" target="_blank"><img width="60" src="icons/medium.png"/></a>
+  </span>
 
-<span>
-  <a href="https://linktr.ee/abdibrokhim" target="_blank"><img width="60" src="icons/link.png"/></a>
-</span>
+  <span>
+    <a href="https://linktr.ee/abdibrokhim" target="_blank"><img width="60" src="icons/link.png"/></a>
+  </span>
 
-<span>
-  <a href="https://lablab.ai" target="_blank"><img width="60" src="icons/lablab.png"/></a>
-</span>
+  <span>
+    <a href="https://lablab.ai" target="_blank"><img width="60" src="icons/lablab.png"/></a>
+  </span>
 
-<span>
-  <a href="https://www.kaggle.com/loneguy" target="_blank"><img width="70" src="icons/kaggle.svg"/></a>
-</span>
+  <span>
+    <a href="https://www.kaggle.com/loneguy" target="_blank"><img width="70" src="icons/kaggle.svg"/></a>
+  </span>
 
 
 </div>
