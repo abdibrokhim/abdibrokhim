@@ -24,6 +24,7 @@ All donations are Greatly Appreciated! 💛
     gap: 50px;
     align-items: center;
     justify-content: center;
+    margin: 0 auto;
     "
   >
 
