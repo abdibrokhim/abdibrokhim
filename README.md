@@ -28,39 +28,39 @@ All donations are Greatly Appreciated! 💛
     "
   >
 
-  <span>
+  <span style="margin-left: 20px;">
     <a style="" href="https://www.linkedin.com/in/abdibrokhim/" target="_blank"><img width="60" src="icons/linkedin.png"/></a>
   </span>
 
-  <span>
+  <span style="margin-left: 20px;">
     <a href="https://twitter.com/abdibrokhim" target="_blank"><img width="60" src="icons/twitter.png"/></a>
   </span>
 
-  <span>
+  <span style="margin-left: 20px;">
     <a href="https://www.instagram.com/_abdibrokhim/" target="_blank"><img width="60" src="icons/instagram.png"/></a>
   </span>
 
-  <span>
+  <span style="margin-left: 20px;">
     <a href="https://github.com/abdibrokhim" target="_blank"><img width="60" src="icons/github.png"/></a>
   </span>
 
-  <span>
+  <span style="margin-left: 20px;">
     <a href="https://t.me/abdibrokhim" target="_blank"><img width="60" src="icons/telegram.png"/></a>
   </span>
 
-  <span>
+  <span style="margin-left: 20px;">
     <a href="https://medium.com/@abdibrokhim" target="_blank"><img width="60" src="icons/medium.png"/></a>
   </span>
 
-  <span>
+  <span style="margin-left: 20px;">
     <a href="https://linktr.ee/abdibrokhim" target="_blank"><img width="60" src="icons/link.png"/></a>
   </span>
 
-  <span>
+  <span style="margin-left: 20px;">
     <a href="https://lablab.ai" target="_blank"><img width="60" src="icons/lablab.png"/></a>
   </span>
 
-  <span>
+  <span style="margin-left: 20px;">
     <a href="https://www.kaggle.com/loneguy" target="_blank"><img width="70" src="icons/kaggle.svg"/></a>
   </span>
 
