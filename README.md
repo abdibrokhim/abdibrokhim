@@ -14,7 +14,7 @@ All donations are Greatly Appreciated! 💛
 
 <div 
   class="" 
-  style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;"
+  style="display: flex; gap: 20px; justify-content: center; align-items: center;"
   >
 
   <a href="https://www.linkedin.com/in/abdibrokhim/" target="_blank"><img width="60" src="icons/linkedin.png"/></a>
