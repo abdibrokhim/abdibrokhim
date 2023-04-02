@@ -2,7 +2,7 @@
 - 🧑‍🎓 Sophomore Student at [New Uzbekistan University](https://newuu.uz).
 - 👨‍🎓 Graduated Student from [Bobir Akilkhanov Academy](https://ba.uz).
 - 🧑‍🎓 Mentor at [LabLab.AI](https://lablab.ai).
-- 👀 I’m interested in Game and Software Development, AI/ML, Data Science, Music Production, 3D Modeling/Animation and Competitive Programming and [more](https://www.youtube.com/watch?v=pKdBFeewZYE).
+- 👀 I’m interested in Game and Software Development, Web3, Blockchain, AI/ML, Data Science, Music Production, 3D Modeling/Animation, Competitive Programming and [more](https://www.youtube.com/watch?v=pKdBFeewZYE).
 
 - 💞️ Do you have project? Let's [Collab](mailto:abdibrokhim@gmail.com)!
 
