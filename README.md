@@ -14,12 +14,16 @@ All donations are Greatly Appreciated! 💛
 
 <br/>
 
+|     <a style="margin-left: 20px;" href="https://www.linkedin.com/in/abdibrokhim/" target="_blank"><img width="60" src="icons/linkedin.png"/></a>    |     <a href="https://twitter.com/abdibrokhim" target="_blank"><img width="60" src="icons/twitter.png"/></a> | instagram     | github      | t.me | medium     |
+| :---        |    :----:   |     :----:    |    :----:   |    :----:   |          ---: |
+| linktr      | lablab       | kaggle   | Header      | Title       | Here's this   |
+
 
 <div class="">
 
-  <div>
+  <span>
     <a style="margin-left: 20px;" href="https://www.linkedin.com/in/abdibrokhim/" target="_blank"><img width="60" src="icons/linkedin.png"/></a>
-  </div>
+  </span>
 
   <span style="margin-left: 20px;">
     <a href="https://twitter.com/abdibrokhim" target="_blank"><img width="60" src="icons/twitter.png"/></a>
