@@ -9,7 +9,8 @@
 
 
 All donations are Greatly Appreciated!
-- Buy me Coffee: https://www.buymeacoffee.com/abdibrokhim
+
+<a href="https://www.buymeacoffee.com/abdibrokhim" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 - Hackathoner, Mentor: https://lablab.ai
 
