@@ -12,31 +12,49 @@ All donations are Greatly Appreciated! 💛
 
 <a href="https://www.buymeacoffee.com/abdibrokhim" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=abdibrokhim&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
+<br/>
+
+
 <div 
   class="" 
   style="display: flex; gap: 20px; justify-content: center; align-items: center;"
   >
 
-  <a href="https://www.linkedin.com/in/abdibrokhim/" target="_blank"><img width="60" src="icons/linkedin.png"/></a>
+<span>
+  <a style="" href="https://www.linkedin.com/in/abdibrokhim/" target="_blank"><img width="60" src="icons/linkedin.png"/></a>
+</span>
 
-
+<span>
   <a href="https://twitter.com/abdibrokhim" target="_blank"><img width="60" src="icons/twitter.png"/></a>
+</span>
 
-
+<span>
   <a href="https://www.instagram.com/_abdibrokhim/" target="_blank"><img width="60" src="icons/instagram.png"/></a>
+</span>
 
-
+<span>
   <a href="https://github.com/abdibrokhim" target="_blank"><img width="60" src="icons/github.png"/></a>
+</span>
 
+<span>
   <a href="https://t.me/abdibrokhim" target="_blank"><img width="60" src="icons/telegram.png"/></a>
+</span>
 
+<span>
   <a href="https://medium.com/@abdibrokhim" target="_blank"><img width="60" src="icons/medium.png"/></a>
+</span>
 
+<span>
   <a href="https://linktr.ee/abdibrokhim" target="_blank"><img width="60" src="icons/link.png"/></a>
+</span>
 
+<span>
   <a href="https://lablab.ai" target="_blank"><img width="60" src="icons/lablab.png"/></a>
+</span>
 
+<span>
   <a href="https://www.kaggle.com/loneguy" target="_blank"><img width="70" src="icons/kaggle.svg"/></a>
+</span>
 
 
 </div>
@@ -54,7 +72,7 @@ You can click the Preview link to take a look at your changes.
 <!-- visiros count -->
 <p align="center">
   Visitor count
-  <br>
+  <br/>
   <img src="https://profile-counter.glitch.me/abdibrokhim/count.svg" />
 </p>
 
