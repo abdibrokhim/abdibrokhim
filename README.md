@@ -25,6 +25,8 @@ All donations are Greatly Appreciated! 💛
     <a style="margin-left: 20px;" href="https://www.linkedin.com/in/abdibrokhim/" target="_blank"><img width="60" src="icons/linkedin.png"/></a>
   </span>
 
+  <vr/>
+
   <span style="margin-left: 20px;">
     <a href="https://twitter.com/abdibrokhim" target="_blank"><img width="60" src="icons/twitter.png"/></a>
   </span>
