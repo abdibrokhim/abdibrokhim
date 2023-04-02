@@ -52,8 +52,8 @@ All donations are Greatly Appreciated! 💛
     <a href="https://medium.com/@abdibrokhim" target="_blank"><img width="60" src="icons/medium.png"/></a>
   </span>
 
-  <span style="margin-left: 20px;">
-    <a href="https://linktr.ee/abdibrokhim" target="_blank"><img width="60" src="icons/link.png"/></a>
+  <span>
+    <a style="margin-left: 20px;" href="https://linktr.ee/abdibrokhim" target="_blank"><img width="60" src="icons/link.png"/></a>
   </span>
 
   <span style="margin-left: 20px;">
