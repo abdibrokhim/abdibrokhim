@@ -15,22 +15,11 @@ All donations are Greatly Appreciated! 💛
 <br/>
 
 
-<div 
-  class="" 
-  style="
-    flex-wrap: wrap;
-    display: flex;
-    flex-direction: row;
-    gap: 50px;
-    align-items: center;
-    justify-content: center;
-    margin: 0 auto;
-    "
-  >
+<div class="">
 
-  <span style="margin-left: 20px;">
-    <a style="" href="https://www.linkedin.com/in/abdibrokhim/" target="_blank"><img width="60" src="icons/linkedin.png"/></a>
-  </span>
+  <div>
+    <a style="margin-left: 20px;" href="https://www.linkedin.com/in/abdibrokhim/" target="_blank"><img width="60" src="icons/linkedin.png"/></a>
+  </div>
 
   <span style="margin-left: 20px;">
     <a href="https://twitter.com/abdibrokhim" target="_blank"><img width="60" src="icons/twitter.png"/></a>
