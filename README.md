@@ -18,12 +18,13 @@ All donations are Greatly Appreciated! 💛
 <div 
   class="" 
   style="
-    flex-wrap: wrap; !important;
-    display: flex; !important;
-    flex-direction: row; !important;
-    gap: 50px; !important;
-    align-items: center; !important;
-    justify-content: center; !important;
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    align-items: center;
+    justify-content: center;
+    "
   >
 
   <span>
@@ -71,6 +72,7 @@ abdibrokhim/abdibrokhim is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+<br/>
 <br/>
 
 <!-- snake github progress -->
