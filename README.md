@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [abdibrokhim](https://www.linkedin.com/in/abdibrokhim/).
-- 🧑‍🎓 Sophomore Student at [New Uzbekistan University](https://newuu.uz).
+- 🧑‍🎓 Junior Student at [New Uzbekistan University](https://newuu.uz).
 - 👨‍🎓 Graduated Student from [Bobir Akilkhanov Academy](https://ba.uz).
 - 🧑‍🎓 Technical Mentor at [LabLab.AI](https://lablab.ai).
 - 🧑‍🎓 FullStack Engineer at [Souk](https://www.linkedin.com/company/souk-app/).
