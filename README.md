@@ -7,7 +7,7 @@ I'm an AI research intern at Dugree doing research on AI for Political Discussio
 Before, I wrote several research papers and book chapters indexed in Scopus.
 Here on GitHub you can find interesting projects I did during hackathons as well as open source software developed in my spare time.
 
-Support my open source projects by donating: [![Buy Me a Coffee](https://buymeacoffee.com/abdibrokhim)]
+Support my open source projects by donating: [Buy Me a Coffee](https://buymeacoffee.com/abdibrokhim)
 
 ---
 
