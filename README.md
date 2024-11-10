@@ -3,9 +3,13 @@
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abdibrokhim)
 [![](https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=lwz2FZgAAAAJ&hl=en)
 
-I do hackathons, build AI-powered & Open-source projects and tools, and umm.... yeah thats about it.
+I do hackathons, build AI-powered & Open-source projects, and umm... yeah thats about it. 🙈
 
-I love ☕️ + 🥐 . You can [buy me one](https://buymeacoffee.com/abdibrokhim).
+I love ☕️ + 🥐 , you can [buy me one](https://buymeacoffee.com/abdibrokhim).
+
+Book a meeting [here](https://topmate.io/abdibrokhim/), it's FREE. 🤗
+
+I listen to [Playboi Carti](https://www.youtube.com/@playboicarti). 🐐
 
 ---
 
