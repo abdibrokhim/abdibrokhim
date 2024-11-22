@@ -5,9 +5,9 @@
 
 I do hackathons, build AI-powered & Open-source projects, and umm... yeah thats about it. 🙈
 
-I love ☕️ + 🥐 , you can [buy me one](https://buymeacoffee.com/abdibrokhim).
+I love ☕️ + 🥐 , you can [buy me one](https://www.patreon.com/abdibrokhim).
 
-Book a meeting [here](https://topmate.io/abdibrokhim/), it's FREE. 🤗
+Book a call [here](https://topmate.io/abdibrokhim/), it's FREE. 🤗
 
 I listen to [Playboi Carti](https://www.youtube.com/@playboicarti). 🐐
 
