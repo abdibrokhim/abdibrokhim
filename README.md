@@ -11,6 +11,8 @@ Book a call [here](https://topmate.io/abdibrokhim/), it's FREE. 🤗
 
 I listen to [Playboi Carti](https://www.youtube.com/@playboicarti). 🐐
 
+Currently building [Open Community](https://www.theopencommunity.co/). "Making AI Uncool Again". We build Open Source AI powered projects and tools for people.
+
 ---
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=abdibrokhim&count_private=true&show_icons=false&theme=default" />
