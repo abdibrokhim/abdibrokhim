@@ -14,4 +14,3 @@ I listen to [Playboi Carti](https://www.youtube.com/@playboicarti). 🐐
 ---
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=abdibrokhim&count_private=true&show_icons=false&theme=default" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdibrokhim&theme=default&show_icons=true" />
