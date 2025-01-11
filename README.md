@@ -18,5 +18,5 @@ Checkout my [YouTube](https://www.youtube.com/c/iJustMakeThings), [Twitter](http
 ---
 
 <p align="center">
-<a href="https://imcook.in"><img src="./assets/oc-logo.svg" alt="OC Logo" width="100"></a>
+<a href="https://imcook.in"><img src="./icons/oc-icon.svg" alt="OC Logo" width="100"></a>
 </p>
