@@ -8,7 +8,7 @@
 
 Founder and CEO of [Open Community (OC) - theopencommunity.co](https://www.imcook.in/OpenCommunity), [CoMed - theopencommunity.co](https://theopencommunity.co) (OC W24), [PaperAI - paperai.pro](https://paperai.pro) (OC F24), [JustMakeThings - imcook.in](https://imcook.in) (OC W24), [That Two PhDs - thattwophds.co](https://www.imcook.in/ThatTwoPhDs) (OC W25), [lovido - lovido.lol](https://lovido.lol) (OC S24) and [more](https://imcook.in).
 
-I build things and make content about it. Known mostly for 70+ Hackathons, 400+ Fails, 4+ Papers, 200K+ Creators and [$OC meme coin](https://x.com/search?q=%24OC&src=typed_query).
+I build things and make content about it. Known mostly for 70+ Hackathons, 400+ Fails, 4+ Papers, 200K+ Creators, 2+ OS Contributions and [$OC meme coin](https://x.com/search?q=%24OC&src=typed_query).
 
 Checkout my [YouTube](https://www.youtube.com/c/iJustMakeThings), [Twitter](https://twitter.com/abdibrokhim), [Twitch](https://twitch.tv/abdibrokhim) and [more](https://imcook.in)
 
