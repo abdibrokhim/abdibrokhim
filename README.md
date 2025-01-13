@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=lwz2FZgAAAAJ&hl=en)
 [![](https://img.shields.io/badge/🌐website-gray?&style=for-the-badge)](http://imcook.in/)
 
-## Open Source AI Hackathon $63K+ in prizes join asap [chillguy.devpost.com](https://chillguy.devpost.com) 🔥
+# Open Source AI Hackathon $63K+ in prizes join asap [chillguy.devpost.com](https://chillguy.devpost.com) 🔥
 
 Founder and CEO of [Open Community (OC) - theopencommunity.co](https://www.imcook.in/OpenCommunity), [CoMed - theopencommunity.co](https://theopencommunity.co) (OC W24), [PaperAI - paperai.pro](https://paperai.pro) (OC F24), [JustMakeThings - imcook.in](https://imcook.in) (OC W24), [That Two PhDs - thattwophds.co](https://www.imcook.in/ThatTwoPhDs) (OC W25), [lovido - lovido.lol](https://lovido.lol) (OC S24) and [more](https://imcook.in).
 
