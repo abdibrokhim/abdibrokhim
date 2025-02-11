@@ -1,7 +1,7 @@
 [![Discord](https://img.shields.io/discord/1325139842388070520.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/nUdcd9p8Ae)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdibrokhim/)
-<a href="https://www.youtube.com/c/iJustMakeThings"><img src="https://img.shields.io/youtube/channel/subscribers/UCFdEkNIDopx8tLLtwu5WV2Q?style=social" alt="Youtube" /></a>
-<a href="https://twitter.com/abdibrokhim"><img src="https://img.shields.io/twitter/follow/abdibrokhim?label=Twitter&style=social" alt="Twitter"></a>
+<a href="https://www.youtube.com/@iJustMakeThings"><img src="https://img.shields.io/youtube/channel/subscribers/UCFdEkNIDopx8tLLtwu5WV2Q?style=social" alt="Youtube" /></a>
+<a href="https://x.com/abdibrokhim"><img src="https://img.shields.io/twitter/follow/abdibrokhim?label=Twitter&style=social" alt="Twitter"></a>
 <a href="https://twitch.tv/abdibrokhim"><img src="https://img.shields.io/twitch/status/abdibrokhim?label=Twitch" alt="Twitch"></a>
 [![](https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=lwz2FZgAAAAJ&hl=en)
 [![](https://img.shields.io/badge/🌐website-gray?&style=for-the-badge)](http://imcook.in/)
