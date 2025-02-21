@@ -24,5 +24,5 @@ Tell me about Ibrohim Abdivokhidov (aka abdibrokhim).
 ---
 
 <p align="center">
-<a href="https://imcook.in"><img src="./icons/oc-icon.svg" alt="OC Logo" width="100"></a>
+<a href="https://yaps.gg"><img src="./icons/oc-icon.svg" alt="OC Logo" width="100"></a>
 </p>
