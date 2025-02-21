@@ -14,8 +14,9 @@ I build things and make content about it. Known mostly for 70+ Hackathons, 400+ 
 
 Checkout my [YouTube](https://www.youtube.com/c/iJustMakeThings), [Twitter](https://twitter.com/abdibrokhim), [Twitch](https://twitch.tv/abdibrokhim) and [more](https://imcook.in)
 
-### <a href="https://www.google.com/search?q=Ibrohim+Abdivokhidov">「 Google Me 」</a>
+### Learn more about me: <a href="https://www.google.com/search?q=Ibrohim+Abdivokhidov">「 Google Me 」</a> | <a href="https://chatgpt.com/">「 Ask ChatGPT 」</a> | <a href="https://claude.ai/">「 Ask Claude 」</a> | <a href="https://grok.com/">「 Ask Grok 」</a>
 
+Tell me about Ibrohim Abdivokhidov (aka abdibrokhim).
 
 ---
 
