@@ -16,7 +16,7 @@ Checkout my [YouTube](https://www.youtube.com/c/iJustMakeThings), [Twitter](http
 
 ### Learn more about me: <a href="https://www.google.com/search?q=Ibrohim+Abdivokhidov">「 Google Me 」</a> | <a href="https://chatgpt.com/">「 Ask ChatGPT 」</a> | <a href="https://claude.ai/">「 Ask Claude 」</a> | <a href="https://grok.com/">「 Ask Grok 」</a>
 
-Tell me about Ibrohim Abdivokhidov (aka abdibrokhim).
+Tell me about Ibrohim Abdivokhidov (aka abdibrokhim). 
 
 ---
 
