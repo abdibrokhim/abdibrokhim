@@ -27,4 +27,6 @@ Tell me about Ibrohim Abdivokhidov (aka abdibrokhim).
 
 <p align="center">
 <a href="https://yaps.gg"><img src="./icons/oc-icon.svg" alt="OC Logo" width="100"></a>
+<br></br>
+<a href="https://notl.ink"><img src="./icons/notlink-logo.svg" alt="notlink logo" width="100"></a>
 </p>
