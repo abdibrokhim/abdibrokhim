@@ -6,13 +6,15 @@
 [![](https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=lwz2FZgAAAAJ&hl=en)
 [![](https://img.shields.io/badge/🌐website-gray?&style=for-the-badge)](http://imcook.in/)
 
-# Open Source AI Hackathon $4K+ in prizes join asap [chillguy.devpost.com](https://chillguy.devpost.com) 🔥
+# yapping... somewhere around here [yaps.gg](https://yaps.gg)
+
+## try [notl.ink](https://notl.ink) a blazingly fast url shortener ever.
 
 Founder and CEO of [Open Community (OC) - theopencommunity.co](https://www.imcook.in/OpenCommunity), [CoMed - theopencommunity.co](https://theopencommunity.co) (OC W24), [PaperAI - paperai.pro](https://paperai.pro) (OC F24), [JustMakeThings - imcook.in](https://imcook.in) (OC W24), [That Two PhDs - thattwophds.co](https://www.imcook.in/ThatTwoPhDs) (OC W25), [lovido - lovido.lol](https://lovido.lol) (OC S24) and [more](https://imcook.in).
 
-I build things and make content about it. Known mostly for 70+ Hackathons, 400+ Fails, 4+ Papers, 200K+ Creators, 2+ Open Source contributions and [$OC meme coin](https://x.com/search?q=%24OC&src=typed_query).
+I build things and make content about it. Known mostly for 70+ Hackathons, 400+ Fails, 4+ Papers, 200K+ Creators, 2+ Open Source contributions and [$OC meme coin](https://x.com/search?q=%24OC).
 
-Checkout my [YouTube](https://www.youtube.com/c/iJustMakeThings), [Twitter](https://twitter.com/abdibrokhim), [Twitch](https://twitch.tv/abdibrokhim) and [more](https://imcook.in)
+Checkout my [YouTube](https://www.youtube.com/c/iJustMakeThings), [Twitter](https://twitter.com/abdibrokhim), [Twitch](https://twitch.tv/abdibrokhim) and [more](https://yaps.gg)
 
 ### <a href="https://www.google.com/search?q=Ibrohim+Abdivokhidov">「 Google Me 」</a> | <a href="https://chatgpt.com/">「 Ask ChatGPT 」</a> | <a href="https://claude.ai/">「 Ask Claude 」</a> | <a href="https://grok.com/">「 Ask Grok 」</a>
 
