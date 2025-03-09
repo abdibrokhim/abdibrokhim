@@ -26,7 +26,9 @@ Tell me about Ibrohim Abdivokhidov (aka abdibrokhim).
 ---
 
 <p align="center">
-<a href="https://yaps.gg"><img src="./icons/oc-icon.svg" alt="try yaps.gg" width="100"></a>
-<a href="https://notl.ink"><img src="./icons/notlink-logo.svg" alt="try notl.ink" width="100"></a>
-<a href="https://yaps.chat"><img src="./icons/yapsdotgg.svg" alt="try yaps.chat" width="100"></a>
+  <a href="https://www.imcook.in/open-community"><img src="./icons/oc-icon.svg" alt="yaps world | open community" width="100"></a>
+  <a href="https://yaps.gg"><img src="./icons/yapsdotgg.svg" alt="yaps world | yaps.gg" width="100"></a>
+  <a href="https://yaps.chat"><img src="./icons/yapsdotchat.svg" alt="yaps world | yaps.chat" width="100"></a>
+  <a href="https://notl.ink"><img src="./icons/notlink-logo.svg" alt="yaps world | yaps.link" width="100"></a>
+  <a href="https://lovido.lol"><img src="./icons/yapsdotlol.svg" alt="yaps world | yaps.lol" width="100"></a>
 </p>
