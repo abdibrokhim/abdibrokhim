@@ -8,13 +8,13 @@
 
 # yapping... somewhere around here [yaps.gg](https://yaps.gg)
 
-## try [notl.ink](https://notl.ink) a blazingly fast url shortener ever.
+## try [yaps.chat](https://yaps.chat) - one-time end-to-end encrypted anonymous chats | [notl.ink](https://notl.ink) a blazingly fast url shortener ever | [yaps.lol](https://yaps.lol) - free open source loom video downloader.
 
-Founder and CEO of [Open Community (OC) - theopencommunity.co](https://www.imcook.in/OpenCommunity), [CoMed - theopencommunity.co](https://theopencommunity.co) (OC W24), [PaperAI - paperai.pro](https://paperai.pro) (OC F24), [JustMakeThings - imcook.in](https://imcook.in) (OC W24), [That Two PhDs - thattwophds.co](https://www.imcook.in/ThatTwoPhDs) (OC W25), [lovido - lovido.lol](https://lovido.lol) (OC S24) and [more](https://imcook.in).
+Founder and CEO of [Open Community (OC)](https://linkedin.com/company/opencommunity).
 
-I build things and make content about it. Known mostly for 70+ Hackathons, 400+ Fails, 4+ Papers, 200K+ Creators, 2+ Open Source contributions and [$OC meme coin](https://x.com/search?q=%24OC).
+I build things and make content about it. Known mostly for failed hackathons and startups.
 
-Checkout my [YouTube](https://www.youtube.com/c/iJustMakeThings), [Twitter](https://twitter.com/abdibrokhim), [Twitch](https://twitch.tv/abdibrokhim) and [more](https://yaps.gg)
+Checkout my [YouTube](https://www.youtube.com/c/iJustMakeThings), [X (twitter)](https://twitter.com/abdibrokhim), [Twitch](https://twitch.tv/abdibrokhim) and [more](https://yaps.gg)
 
 ### <a href="https://www.google.com/search?q=Ibrohim+Abdivokhidov">「 Google Me 」</a> | <a href="https://chatgpt.com/">「 Ask ChatGPT 」</a> | <a href="https://claude.ai/">「 Ask Claude 」</a> | <a href="https://grok.com/">「 Ask Grok 」</a>
 
@@ -30,5 +30,5 @@ Tell me about Ibrohim Abdivokhidov (aka abdibrokhim).
   <a href="https://yaps.gg"><img src="./icons/yapsdotgg.svg" alt="yaps world | yaps.gg" width="100"></a>
   <a href="https://yaps.chat"><img src="./icons/yapsdotchat.svg" alt="yaps world | yaps.chat" width="100"></a>
   <a href="https://notl.ink"><img src="./icons/notlink-logo.svg" alt="yaps world | yaps.link" width="100"></a>
-  <a href="https://lovido.lol"><img src="./icons/yapsdotlol.svg" alt="yaps world | yaps.lol" width="100"></a>
+  <a href="https://yaps.lol"><img src="./icons/yapsdotlol.svg" alt="yaps world | yaps.lol" width="100"></a>
 </p>
