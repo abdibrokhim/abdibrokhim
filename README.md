@@ -11,14 +11,7 @@
 
 hi, you can call me ibrohim. i love design and engineering. in the past i built tons of things. i tried literally anything. pls, take a look [yaps.gg](https://yaps.gg)
 
-Checkout my [YouTube](https://www.youtube.com/c/iJustMakeThings), [X (Twitter)](https://twitter.com/abdibrokhim), [Twitch](https://twitch.tv/abdibrokhim) and [more](https://yaps.gg)
-
-### <a href="https://www.google.com/search?q=Ibrohim+Abdivokhidov">「 Google Me 」</a> | <a href="https://chatgpt.com/">「 Ask ChatGPT 」</a> | <a href="https://claude.ai/">「 Ask Claude 」</a> | <a href="https://grok.com/">「 Ask Grok 」</a>
-
-Prompt:
-```
-Tell me about Ibrohim Abdivokhidov (aka abdibrokhim).
-```
+Checkout my [YouTube](https://www.youtube.com/@yapsdotgg), [X (Twitter)](https://twitter.com/abdibrokhim) and [all](https://yaps.gg)
 
 ---
 
