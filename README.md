@@ -6,12 +6,10 @@
 [![](https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=lwz2FZgAAAAJ&hl=en)
 [![](https://img.shields.io/badge/🌐website-gray?&style=for-the-badge)](http://imcook.in/)
 
-## AI VIBE CODING HACKATHON
+## Happening Now "AI VIBE CODING HACKATHON" by [ANORA Labs](https://www.linkedin.com/company/anoralabs) × [Open Community](https://www.linkedin.com/company/opencommunity)
 [Join Hackathon](https://vibe.devpost.com/), [Join Discord](https://discord.gg/nUdcd9p8Ae)
 
-
-
-I build things and make content about it. Known mostly for failed hackathons and startups.
+hi, you can call me ibrohim. i love design and engineering. in the past i built tons of things. i tried literally anything. pls, take a look [yaps.gg](https://yaps.gg)
 
 Checkout my [YouTube](https://www.youtube.com/c/iJustMakeThings), [X (Twitter)](https://twitter.com/abdibrokhim), [Twitch](https://twitch.tv/abdibrokhim) and [more](https://yaps.gg)
 
