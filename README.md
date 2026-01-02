@@ -6,13 +6,14 @@
 [![](https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=lwz2FZgAAAAJ&hl=en)
 [![](https://img.shields.io/badge/🌐website-gray?&style=for-the-badge)](http://imcook.in/)
 
-### try [yaps.chat](https://yaps.chat) - one-time end-to-end encrypted anonymous chats | [notl.ink](https://notl.ink) a blazingly fast url shortener ever | [yaps.lol](https://yaps.lol) - free open source loom video downloader.
+## AI VIBE CODING HACKATHON
+[Join Hackathon](https://vibe.devpost.com/), [Join Discord](https://discord.gg/nUdcd9p8Ae)
 
-Founder and CEO of [Open Community (OC)](https://linkedin.com/company/opencommunity).
+
 
 I build things and make content about it. Known mostly for failed hackathons and startups.
 
-Checkout my [YouTube](https://www.youtube.com/c/iJustMakeThings), [X (twitter)](https://twitter.com/abdibrokhim), [Twitch](https://twitch.tv/abdibrokhim) and [more](https://yaps.gg)
+Checkout my [YouTube](https://www.youtube.com/c/iJustMakeThings), [X (Twitter)](https://twitter.com/abdibrokhim), [Twitch](https://twitch.tv/abdibrokhim) and [more](https://yaps.gg)
 
 ### <a href="https://www.google.com/search?q=Ibrohim+Abdivokhidov">「 Google Me 」</a> | <a href="https://chatgpt.com/">「 Ask ChatGPT 」</a> | <a href="https://claude.ai/">「 Ask Claude 」</a> | <a href="https://grok.com/">「 Ask Grok 」</a>
 
