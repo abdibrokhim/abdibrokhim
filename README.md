@@ -1,26 +1,29 @@
 [![Discord](https://img.shields.io/discord/1325139842388070520.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/nUdcd9p8Ae)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdibrokhim/)
-<a href="https://www.youtube.com/@iJustMakeThings"><img src="https://img.shields.io/youtube/channel/subscribers/UCFdEkNIDopx8tLLtwu5WV2Q?style=social" alt="Youtube" /></a>
+<a href="https://www.youtube.com/@yapsdotgg"><img src="https://img.shields.io/youtube/channel/subscribers/UCFdEkNIDopx8tLLtwu5WV2Q?style=social" alt="Youtube" /></a>
 <a href="https://x.com/abdibrokhim"><img src="https://img.shields.io/twitter/follow/abdibrokhim?label=Twitter&style=social" alt="Twitter"></a>
 <a href="https://twitch.tv/abdibrokhim"><img src="https://img.shields.io/twitch/status/abdibrokhim?label=Twitch" alt="Twitch"></a>
 [![](https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=lwz2FZgAAAAJ&hl=en)
-[![](https://img.shields.io/badge/🌐website-gray?&style=for-the-badge)](http://imcook.in/)
+[![](https://img.shields.io/badge/🌐website-gray?&style=for-the-badge)](http://yaps.gg)
 
 # **AI VIBE CODING HACKATHON**
 
 Join _"AI VIBE CODING HACKATHON"_ organized by [Open Community](https://www.linkedin.com/company/opencommunity). Presented by [ANORA Labs](https://www.linkedin.com/company/anoralabs).
 
-[Join the Hackathon](https://vibe.devpost.com/) | [Join the Discord fam](https://discord.gg/nUdcd9p8Ae)
+[Join the Hackathon](https://vibe.devpost.com) | [Join the Discord fam](https://discord.gg/nUdcd9p8Ae)
 
 ![AI VIBE CODING HACKATHON](https://iili.io/fSlB5Mb.png)
 
 hi, it's YapsGG! i love design and engineering. take a look my personal website [yaps.gg](https://yaps.gg)
 
-Checkout my [LinkedIn](https://www.linkedin.com/in/abdibrokhim) | [YouTube](https://www.youtube.com/@yapsdotgg) | [X (Twitter)](https://twitter.com/abdibrokhim)
+Checkout my [LinkedIn](https://www.linkedin.com/in/abdibrokhim) | [X (Twitter)](https://twitter.com/abdibrokhim) | [YouTube](https://www.youtube.com/@yapsdotgg) | [Instagram](https://www.instagram.com/yaps.gg)
+
+### Currently working on
+Turn your messy gallery into [Andrea Mosaic](https://github.com/abdibrokhim/Andrea-Mosaic-CLI).
+[ANORA Labs](http://anora.yaps.gg) – AI Creative Canvas. 
+[ANORA Labs Shop](http://anoralabs.shop/) – Order your coffee from terminal `ssh anoralabs.shop`. Written in Rust. [Github web version](https://github.com/abdibrokhim/web.anora.cafe). </br>
 
 ### Open-source projects
-
-[ANORA Labs Shop](http://anoralabs.shop/) – Order your coffee from terminal `ssh anoralabs.shop`. Written in Rust. [Github web version](https://github.com/abdibrokhim/web.anora.cafe). </br>
 [Lovido](https://github.com/abdibrokhim/loom-dl-web) – Free open source loom video downloader. (20 MAU) </br>
 [Notlink](https://github.com/abdibrokhim/notlink) – Free open source blazingly fast url shortener ever written in Rust. (100+ stars) </br>
 [yaps[dot]chat](https://github.com/abdibrokhim/yaps.chat) – One-time end-to-end encrypted anonymous chats written in Rust. (#1 ProductHunt) </br>
@@ -37,6 +40,8 @@ Checkout my [LinkedIn](https://www.linkedin.com/in/abdibrokhim) | [YouTube](http
 [MonkeytypeAI](https://github.com/abdibrokhim/monkeytype-ai) – A minimalistic and customizable AI-powered typing test. </br>
 [LangflowAI](https://github.com/abdibrokhim/langflow) – We automate Langflow with AI. No more drag and drop. Simply dictate and AI gets the work done! </br>
 [PaperAI](https://github.com/abdibrokhim/paper-ai-voice-assistant) – The open source collaborative AI research platform. </br>
+[Chill receipt](https://github.com/abdibrokhim/chill-app) – This is just a fun project. you can draw on my chill receipt. </br>
+Make minimalistic [YouTube thumbnails](https://github.com/abdibrokhim/justmakethings) for your videos.
 [CoMed](https://github.com/abdibrokhim/CoMed-web) – The open source autonomous AI brain MRI analysis & diagnosis platform for doctors to help their patients. [Changelog](https://docs.google.com/document/d/1BUTYwI5xuNIV0FWmmQNmMErs6XXK30kDKoojktSwoJU/edit?usp=sharing) </br>
 [NextGen o1](https://github.com/abdibrokhim/nextgen-o1) Overcomes the limitations of the OpenAI o1 model by adding critical functionalities. </br>
 [OpenVoice API](https://github.com/abdibrokhim/OpenVoice-API) – Free AI voice cloning API implementation. Now Open Source. </br>
@@ -64,12 +69,15 @@ Checkout my [LinkedIn](https://www.linkedin.com/in/abdibrokhim) | [YouTube](http
 [Flutter Cohere package](https://github.com/abdibrokhim/flutter_cohere) – This package provides a powerful bridge between your Flutter application and Cohere AI. </br>
 [AI Characters](https://github.com/TechWithAbee/ai-game-asset-generator) – Professional 3D character assets powered by Recraft v3. Choose from 39+ art styles, customize colors, and generate Cinema4D quality renders with commercial licensing. </br>
 [ChatGPT Rust Desktop App](https://github.com/abdibrokhim/ChatGPT4-Rust-Desktop-App) – Open Source implementation of ChatGPT Desktop application written in TypeScript, React, Next.js, Rust, Tauri. </br>
+[ThreeJS app](https://github.com/abdibrokhim/sftf24-table-viz) – I simply embed all of us (Huawei seed for the future 2024 fellows) and visualized in 3d space. Now you can know, who ais your close friend and not.
 [WeShot](https://github.com/abdibrokhim/weshot) – The ultimate social media haven where your moments aren't just shared, they're celebrated. </br>
 [YapsMusic](https://github.com/abdibrokhim/yaps.music) – playing random tracks from youtube. </br>
 [Rice Milling Filtering Service](https://github.com/abdibrokhim/xoraz-bot) - A Telegram bot for managing appointments for custom filtering machines with fabric bags for Rice Milling machines. Built with Python, python-telegram-bot library, and Supabase as the database. </br>
 A fully functional [Figma clone](https://github.com/abdibrokhim/Figma-Clone-Built-With-HTML-CSS-JS) built with vanilla HTML, CSS, and JavaScript. This application replicates Figma's core design functionality including shape creation, text editing, effects, export capabilities, and more. </br>
 [Waifu Anime](https://github.com/abdibrokhim/anora-waifu) – Build your own Ani like personal Waifu. (NextJS+ElevenLabs) </br>
 [Generate & Deploy NFT's](https://github.com/abdibrokhim/cw3d-AlchemySDK) on a Blockchain using Alchemy SDK. </br>
+The [Stable Diffusion](https://github.com/abdibrokhim/The-Stable-Diffusion-Search-Engine) Search Engine. </br>
+[Truck Simulator](https://github.com/abdibrokhim/TuckSimulator-unity) – my first game i did in Unity. it has map, levels. </br>
 
 ---
 
