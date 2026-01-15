@@ -20,24 +20,49 @@ Checkout my [LinkedIn](https://www.linkedin.com/in/abdibrokhim) | [YouTube](http
 
 ### Open-source Projects
 
-[Lovido](https://github.com/abdibrokhim/loom-dl-web) – Free open source loom video downloader. (20 MAU)
+[ANORA Labs Shop](http://anoralabs.shop/) – Order your coffee from terminal `ssh anoralabs.shop`. Written in Rust. [Github web version](https://github.com/abdibrokhim/web.anora.cafe). </br>
+[Lovido](https://github.com/abdibrokhim/loom-dl-web) – Free open source loom video downloader. (20 MAU) </br>
+[Notlink](https://github.com/abdibrokhim/notlink) – Free open source blazingly fast url shortener ever written in Rust. </br>
+[yaps[dot]chat](https://github.com/abdibrokhim/yaps.chat) – One-time end-to-end encrypted anonymous chats written in Rust. </br>
+[Zarin](https://github.com/abdibrokhim/zarin) – Free, open-source AI chat app with over 200 AI models. </br>
+[Wei](https://github.com/abdibrokhim/eliza-agent-orchestration) – The AI agents for personal growth with built-in memory/search support. </br>
+[MIDE](https://github.com/abdibrokhim/monday.com-ai-assistant-hackathon) – Built-in IDE that allows to run queries instantly inside monday.com in any language. </br>
+[MonkeytypeAI](https://github.com/abdibrokhim/monkeytype-ai) – A minimalistic and customizable AI-powered typing test. </br>
+[CoMed](https://github.com/abdibrokhim/CoMed-web) – The open source autonomous AI brain MRI analysis & diagnosis platform for doctors to help their patients. [Changelog](https://docs.google.com/document/d/1BUTYwI5xuNIV0FWmmQNmMErs6XXK30kDKoojktSwoJU/edit?usp=sharing) </br>
+[PaperAI](https://github.com/abdibrokhim/paper-ai-voice-assistant) – The open source collaborative AI research platform. </br>
+[EcoShopAI](https://chatgpt.com/g/g-rTTibE8p9-ecoshop-ai) – ChatGPT app that helps you find eco-friendly products and reduce your carbon footprint. </br>
+[Truck ReportMe](https://github.com/abdibrokhim/monday.com-flutter-app-for-lgstcs) – an App that Automates Truck Reports in Logistics. </br>
+[ChatGPT mobile app](https://github.com/abdibrokhim/ChatGPT3.5-Flutter-App) implementation using Flutter framework and Dart programming language. Supports all OpenAI LLMs via API. </br>
+[ChatGPT Telegram Bot](https://github.com/abdibrokhim/ChatGPT-TelegramBot) – Built using OpenAI API. Supports Django on backend. Has pricing options. </br>
+[ChatWithPDF](https://github.com/abdibrokhim/Chat-With-PDF-NextJS-Langchain-Pinecone-OpenAI) – Join millions of students, researchers and professionals to instantly answer questions and understand research with AI. </br>
+[NextGen o1](https://github.com/abdibrokhim/nextgen-o1) Overcomes the limitations of the OpenAI o1 model by adding critical functionalities. </br>
+[OpenVoice API](https://github.com/abdibrokhim/OpenVoice-API) – Free AI voice cloning API implementation. Now Open Source. </br>
+[PrepAlly](https://github.com/abdibrokhim/ai-coding-interviewer) – The open-source AI coding prep platform, offering real-time feedback, voice-guided insights, and secure, interactive practice. </br>
+[.env](https://github.com/abdibrokhim/Plant-Tree) – Touch grass alternative. Viral productivity app. </br>
+[HumanAIze](https://github.com/abdibrokhim/humanaize) – AI text with the smartest AI humanizer. </br>
+[Douaa](https://github.com/abdibrokhim/douaa) – The first open-source AI Agent for OLX. </br>
+[AI Sticker Maker](https://github.com/abdibrokhim/ai-sticker-maker) – In just seconds, you can effortlessly transform your ideas into custom stickers. </br>
+[Alert ME](https://github.com/abdibrokhim/Flutter-Send-Location-via-SMS) – A geolocation reporting app for the safety of users. </br>
+[Notgrep](https://github.com/abdibrokhim/notgrep) - Code search made super fast. Effortlessly search for code, files, and paths across MY repositories. </br>
+[Debts](https://github.com/abdibrokhim/qarzsiz) – Track your debts across different shops. </br>
+[Open Notes](https://github.com/abdibrokhim/2025-stickies) – Quote your favorite phrase(s) on a whiteboard that's sharable to anyone. </br>
+[LangflowAI](https://github.com/abdibrokhim/langflow) – We automate Langflow with AI. No more drag and drop. Simply dictate and AI gets the work done! </br>
+[Back90](https://github.com/abdibrokhim/neuronostalgia-hack24) – Platform that transforms modern websites into authentic 90s-style designs while preserving core functionality. </br>
+[Telegram Group Users Scraper](https://github.com/abdibrokhim/telethon-scraper) – a Python script that scrapes users from a Telegram group using the Telethon library. </br>
+[MeWellAI](https://github.com/abdibrokhim/mentalwellness) – an AI-powered mobile application designed to revolutionize mental wellness support by combining the familiarity of social media with personalized mental health assistance. </br>
 
-[yaps[dot]chat](https://github.com/abdibrokhim/yaps.chat) – One-time end-to-end encrypted anonymous chats written in Rust.
-
-[Zarin](https://github.com/abdibrokhim/zarin) – Free, open-source AI chat app with over 200 AI models.
-
-[Wei](https://github.com/abdibrokhim/eliza-agent-orchestration) – The AI agents for personal growth with built-in memory/search support.
-
-[MIDE](https://github.com/abdibrokhim/monday.com-ai-assistant-hackathon) – Built-in IDE that allows to run queries instantly inside monday.com in any language.
-
-[MonkeytypeAI](https://github.com/abdibrokhim/monkeytype-ai) – A minimalistic and customizable AI-powered typing test.
-
-[CoMed](https://github.com/abdibrokhim/CoMed-web) – The open source autonomous AI brain MRI analysis & diagnosis platform for doctors to help their patients. [Changelog](https://docs.google.com/document/d/1BUTYwI5xuNIV0FWmmQNmMErs6XXK30kDKoojktSwoJU/edit?usp=sharing)
-
-[PaperAI](https://github.com/abdibrokhim/paper-ai-voice-assistant) – The open source collaborative AI research platform.
-
-[EcoShopAI](https://chatgpt.com/g/g-rTTibE8p9-ecoshop-ai) – ChatGPT app that helps you find eco-friendly products and reduce your carbon footprint.
-
+[Lychee](https://github.com/abdibrokhim/Lychee) – Watching online lectures is convenient. But, makes it hard to engage with the material. </br>
+[St[ate]less](https://github.com/abdibrokhim/stateless) – Writing app that will delete everything if you stop typing. </br>
+[Flutter Cohere package](https://github.com/abdibrokhim/flutter_cohere) – This package provides a powerful bridge between your Flutter application and Cohere AI. </br>
+[AI Characters](https://github.com/TechWithAbee/ai-game-asset-generator) – Professional 3D character assets powered by Recraft v3. Choose from 39+ art styles, customize colors, and generate Cinema4D quality renders with commercial licensing. </br>
+[ChatGPT Rust Desktop App](https://github.com/abdibrokhim/ChatGPT4-Rust-Desktop-App) – Open Source implementation of ChatGPT Desktop application written in TypeScript, React, Next.js, Rust, Tauri. </br>
+[WeShot](https://github.com/abdibrokhim/weshot) – The ultimate social media haven where your moments aren't just shared, they're celebrated. </br>
+[YapsMusic](https://github.com/abdibrokhim/yaps.music) – playing random tracks from youtube. </br>
+[Rice Milling Filtering Service](https://github.com/abdibrokhim/xoraz-bot) - A Telegram bot for managing appointments for custom filtering machines with fabric bags for Rice Milling machines. Built with Python, python-telegram-bot library, and Supabase as the database. </br>
+[Memvid](https://github.com/abdibrokhim/memvid-aiml-api/tree/feature/integrate-ai-ml-api) - Video-Based AI Memory now powered by AI/ML API. </br>
+[Mini Img Editor](https://github.com/abdibrokhim/mini-photo-editor) – Online webgl2 photo editor with AI image generation using OpenAI latest `gpt-image-1` model API. </br>
+[Github Crawler](https://github.com/abdibrokhim/github-crawler) – A production-grade GitHub repository crawler built with FastAPI, SQLAlchemy, and GraphQL. </br>
+[Note-Z](https://github.com/abdibrokhim/Note-Z) – a next-generation, location-based note-taking app crafted exclusively for Gen-Z. It delivers a playful, cartoon-style map interface that emphasizes focused, short-term task management. </br>
 
 
 
