@@ -63,8 +63,13 @@ Checkout my [LinkedIn](https://www.linkedin.com/in/abdibrokhim) | [YouTube](http
 [Mini Img Editor](https://github.com/abdibrokhim/mini-photo-editor) – Online webgl2 photo editor with AI image generation using OpenAI latest `gpt-image-1` model API. </br>
 [Github Crawler](https://github.com/abdibrokhim/github-crawler) – A production-grade GitHub repository crawler built with FastAPI, SQLAlchemy, and GraphQL. </br>
 [Note-Z](https://github.com/abdibrokhim/Note-Z) – a next-generation, location-based note-taking app crafted exclusively for Gen-Z. It delivers a playful, cartoon-style map interface that emphasizes focused, short-term task management. </br>
-
-
+[RustVecDB](https://github.com/abdibrokhim/nanoQdrant) – A high-performance, lightweight vector database written in Rust, inspired by [Qdrant](https://github.com/qdrant/qdrant). </br>
+[Conversational AI Agent with ElevenLabs](https://github.com/abdibrokhim/elevenlabs-openai-zapier-cli-agent) – Terminal-native voice and text chat that connects to an ElevenLabs Agent over WebSocket. It streams your microphone audio, plays the agent's audio responses in real-time, and renders live transcripts/status in a clean CLI using Rich. </br>
+[CLI Agent (OpenAI Responses + Zapier MCP)](https://github.com/abdibrokhim/zapier-openai-cli-agent) – A terminal chat UI that uses the OpenAI Responses API with Zapier MCP tools. Shows an ASCII banner on launch and provides a simple, chat-like experience with commands for help, powers, examples, clearing the screen, and exit. </br>
+[Command-line client for OpenAI's Sora 2](https://github.com/abdibrokhim/Sora-2-CLI) and Sora 2 Pro video generation API, implemented in Python (main.py). Supports creating videos (text-only or image-guided), polling, downloading content, listing, retrieving, deleting, and remixing. </br>
+[Advanced, fast, and ergonomic CLI for file conversions using ConvertAPI](https://github.com/abdibrokhim/cli-agent-anyfile-converter). Convert MS Office, images, and PDFs; batch process directories; merge, split, compress, and watermark PDFs; and perform image joins and format conversions. </br>
+A fully functional [Figma clone](https://github.com/abdibrokhim/Figma-Clone-Built-With-HTML-CSS-JS) built with vanilla HTML, CSS, and JavaScript. This application replicates Figma's core design functionality including shape creation, text editing, effects, export capabilities, and more. </br>
+[Waifu Anime](https://github.com/abdibrokhim/anora-waifu) – Build your own Ani like personal Waifu. (NextJS+ElevenLabs) </br>
 
 
 ---
