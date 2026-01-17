@@ -23,8 +23,8 @@ Checkout my [LinkedIn](https://www.linkedin.com/in/abdibrokhim) | [X (Twitter)](
 [ANORA Labs Shop](http://anoralabs.shop/) – Order your coffee from terminal `ssh anoralabs.shop`. Written in Rust. [Web version](https://github.com/abdibrokhim/web.anora.cafe). </br>
 
 ### Recently i built
-[Sponsor treemap](https://github.com/abdibrokhim/sponsor-treemap) – Visualize your sponsors contributions to the event.
-Turn your messy gallery into [Andrea Mosaic](https://github.com/abdibrokhim/Andrea-Mosaic-CLI). Written in Rust </br>
+[Sponsor treemap](https://github.com/abdibrokhim/sponsor-treemap) – Visualize your sponsors contributions to the event. </br>
+Turn your messy gallery into [Andrea Mosaic](https://github.com/abdibrokhim/Andrea-Mosaic-CLI). Written in Rust. </br>
 
 ### Open-source projects
 [Lovido](https://github.com/abdibrokhim/loom-dl-web) – Free open source loom video downloader. (20 MAU) </br>
