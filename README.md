@@ -12,7 +12,7 @@ Join _"AI VIBE CODING HACKATHON"_ organized by [Open Community](https://www.link
 
 [Join the Hackathon](https://vibe.devpost.com) | [Join the Discord fam](https://discord.gg/nUdcd9p8Ae)
 
-![AI VIBE CODING HACKATHON](https://iili.io/fSlB5Mb.png)
+![AI VIBE CODING HACKATHON](https://iili.io/f4U63Mb.png)
 
 hi, it's YapsGG! i love design and engineering. take a look my personal website [yaps.gg](https://yaps.gg)
 
