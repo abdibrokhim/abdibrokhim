@@ -6,22 +6,14 @@
 [![](https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=lwz2FZgAAAAJ&hl=en)
 [![](https://img.shields.io/badge/🌐website-gray?&style=for-the-badge)](http://yaps.gg)
 
-# **AI VIBE CODING HACKATHON**
-
-Join _"AI VIBE CODING HACKATHON"_ organized by [Open Community](https://www.linkedin.com/company/opencommunity). Presented by [ANORA Labs](https://www.linkedin.com/company/anoralabs).
-
-[Join the Hackathon](https://vibe.devpost.com) | [Join the Discord fam](https://discord.gg/nUdcd9p8Ae)
-
-<div style="max-width:100%; overflow:hidden;">
-  <img src="https://iili.io/f4U63Mb.png" alt="AI VIBE CODING HACKATHON" style="width:100%; height:auto;" />
-</div>
+### Founder [ANORA ©](https://anoraai.xyz) –– Your Intelligent Canvas for Scalable Workflows
 
 hi, it's YapsGG! i love design and engineering. take a look my personal website [yaps.gg](https://yaps.gg)
 
 Checkout my [LinkedIn](https://www.linkedin.com/in/abdibrokhim) | [X (Twitter)](https://twitter.com/abdibrokhim) | [YouTube](https://www.youtube.com/@yapsdotgg) | [Instagram](https://www.instagram.com/yaps.gg)
 
 ### Currently working on
-- [ANORA Labs](http://anora.yaps.gg) – AI Creative Canvas. [FLORA](https://www.florafauna.ai) alternative. </br>
+- [ANORA](https://anoraai.xyz) – Your Intelligent Canvas for Scalable Workflows.
 - [ANORA Labs Shop](http://anoralabs.shop/) – Order your coffee from terminal `ssh anoralabs.shop`. Written in Rust. [Web version](https://github.com/abdibrokhim/web.anora.cafe). </br>
 - [rentmyheader](https://rentmyheader.xyz) - Monetize your LinkedIn profile with one fucking click.
 
