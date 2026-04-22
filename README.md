@@ -6,11 +6,11 @@
 [![](https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=lwz2FZgAAAAJ&hl=en)
 [![](https://img.shields.io/badge/🌐website-gray?&style=for-the-badge)](http://yaps.gg)
 
-### Founder [ANORA ©](https://anoraai.xyz) –– Your Intelligent Canvas for Scalable Workflows
+### Founder [VENAZ ©](https://venaz.ai) –– Your Creative Space for Generative Workflows
 
 hi, it's YapsGG! i love design and engineering. take a look my personal website [yaps.gg](https://yaps.gg)
 
-Checkout my [LinkedIn](https://www.linkedin.com/in/abdibrokhim) | [X (Twitter)](https://twitter.com/abdibrokhim) | [YouTube](https://www.youtube.com/@yapsdotgg) | [Instagram](https://www.instagram.com/yaps.gg)
+Checkout my [LinkedIn](https://www.linkedin.com/in/abdibrokhim) | [X (Twitter)](https://x.com/abdibrokhim) | [YouTube](https://www.youtube.com/@yapsdotgg) | [Instagram](https://www.instagram.com/yaps.gg)
 
 ### Currently working on
 - [ANORA](https://anoraai.xyz) – Your Intelligent Canvas for Scalable Workflows.
